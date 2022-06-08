@@ -7,7 +7,7 @@ Em seguida mostrar o preço médio dos produtos. Depois, mostrar os nomes, em or
 # Input file:
 Tv,900.00
 Mouse,50.00
-Tablet,350.00
+Tablet,350.50
 HD Case,80.90
 Computer,850.00
 Monitor,290.00
